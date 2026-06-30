@@ -112,10 +112,4 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
-## License
-
-MIT License — free to use, modify, and distribute.
-
----
-
 *Built with Python, Streamlit, and XGBoost.*
